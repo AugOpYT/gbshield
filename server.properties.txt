@@ -1,0 +1,6 @@
+#Minecraft server properties
+server-port=25565
+server-ip=
+sync-chunk-writes=false
+simulation-distance=4
+view-distance=7
